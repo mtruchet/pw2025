@@ -1,6 +1,6 @@
 // Función para mostrar saludo automático
 function mostrarSaludo() {
-    const nombre = "Truchet"; // Cambia esto por tu nombre
+    const nombre = "Mauricio"; // Cambia esto por tu nombre
     alert(`¡Bienvenido a mi perfil, ${nombre}!`);
 }
 
