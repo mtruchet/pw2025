@@ -1,0 +1,31 @@
+# Archivos y carpetas a ignorar
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias de Node.js (para futuros TPs)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Logs
+*.log
